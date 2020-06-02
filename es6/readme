@@ -3,3 +3,4 @@
 2 - yarn add @babel/cli
 3 - yarn add @babel/preset-env
 4 - yarn add @babel/core
+5 - yarn add @babel/plugin-proposal-object-rest-spread
