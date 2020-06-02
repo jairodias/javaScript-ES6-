@@ -1,14 +1,6 @@
-const nome = "Jairo";
-const idade = 20;
+import { soma } from './funcoes';
 
-const usuario = {
-  nome,
-  idade,
-  empresa: 'Teste',
-};
-
-console.log(usuario);
-console.log(` Meu nome é ${nome} e minha idade é: ${idade}`);
+console.log(soma(1,2));
 
 
 

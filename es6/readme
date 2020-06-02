@@ -1,6 +1,8 @@
 ********************************** AMBIENTE ************************************
 1 - yarn init
-2 - yarn add @babel/cli
-3 - yarn add @babel/preset-env
-4 - yarn add @babel/core
-5 - yarn add @babel/plugin-proposal-object-rest-spread
+2 - yarn add @babel/cli -D
+3 - yarn add @babel/preset-env -D
+4 - yarn add @babel/core -D
+5 - yarn add @babel/plugin-proposal-object-rest-spread -D
+6 - yarn add webpack webpack-cli -D
+7 - yarn add babel-loader@8.0.0-beta.0 -D
